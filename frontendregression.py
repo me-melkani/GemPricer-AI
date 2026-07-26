@@ -12,7 +12,7 @@ import plotly.graph_objects as go
 # PAGE CONFIGURATION
 # ===========================
 st.set_page_config(
-    page_title="Diamond Price Predictor",
+    page_title="GemPricer AI",
     page_icon="💎",
     layout="wide",
     initial_sidebar_state="expanded"
