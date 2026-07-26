@@ -150,7 +150,7 @@ model, score = train_model()
 # ===========================
 # HEADER SECTION
 # ===========================
-st.markdown('<div class="main-title">💎 Diamond Price Predictor</div>', unsafe_allow_html=True)
+st.markdown('<div class="main-title">💎 GemPricer AI</div>', unsafe_allow_html=True)
 st.markdown('<div class="subtitle">Powered by Machine Learning | Predict prices instantly</div>', unsafe_allow_html=True)
 
 # ===========================
